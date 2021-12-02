@@ -17,3 +17,9 @@
 # Overview of Books or Book Chapters
 -  [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/) | Covered by [Shashank Kalanithi](https://shashankkalanithi.com/) | [[Youtube Playlist](https://www.youtube.com/playlist?list=PL-u09-6gP5ZNd6AhULnQHr6ZsF15qy4D0)]
 - [Hands-on Machine Learning with Scikit-Learn Keras & Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) | Covered by [Shashank Kalanithi](https://shashankkalanithi.com/) | [[Youtube Playlist](https://www.youtube.com/playlist?list=PL-u09-6gP5ZPOfSPTto4BIDwky-8aP4rQ)]
+
+# Job Preparation 
+- Coding Interview University by John Washam | [[Github Repo](https://github.com/jwasham/coding-interview-university)]
+- How to get a top job after graduation by Seeam Shahid Noor | [[Link](https://www.getrevue.co/profile/seeamshahidnoor/issues/5-how-to-get-a-top-job-after-graduation-906343)]
+  - Resources and instructions are based on the journey from getting an internship + full-time job at IBM’s Chief Analytics Office (& other companies) for strategy consulting, data science, & product management roles.
+- Amazon ও Google এ চাকরির সুযোগ পাওয়ার প্রস্তুতি পর্ব by [Sabir Ismail](https://www.linkedin.com/in/sabir-ismail-83113b20/) | [[Github Repo](https://github.com/sabir4063/my_preparation)]
