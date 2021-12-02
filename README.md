@@ -27,6 +27,7 @@
 - Amazon ও Google এ চাকরির সুযোগ পাওয়ার প্রস্তুতি পর্ব by [Sabir Ismail](https://www.linkedin.com/in/sabir-ismail-83113b20/) [[Github Repo](https://github.com/sabir4063/my_preparation)]
 - My Interview Experience with Shopee / Garena / Sea Group by Mohammad Samiul Islam [[Link](https://forthright48.com/interview-with-shopee-garena)]
   - Notes on different topics [[Link](https://github.com/forthright48/notes)]
+- (Bangla) Moving from Bangladesh to abroad: My preparation & interview experiences by [Foyzul Karim](https://www.linkedin.com/in/foyzul) | [[Youtube Playlist](https://www.youtube.com/playlist?list=PLEYpvDF6qy8amI9JFrCZfLhlcT57S-mQt)]
 
 # Resume & Cover Letter 
 - Resume & Cover Letters - Job & Internship Guide by University of California, Berkeley
