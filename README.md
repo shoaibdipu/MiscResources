@@ -7,8 +7,9 @@
 - Mathematics for Machine Learning - Multivariate Calculus | [[Youtube Playlist](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)]
 - Introduction to Linear Algebra for Applied Machine Learning with Python by [Pablo Caceres](https://pablocaceres.org/) | [[Site](https://pabloinsente.github.io/intro-linear-algebra)]
 
-# Papers
+# Reading Lists
 - Deep Learning Papers Reading Roadmap | [[Github Repo](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)]
+- Reading lists for new MILA students | [[Doc](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/)]
 
 # Resume & Cover Letter 
 - Resume & Cover Letters - Job & Internship Guide by University of California, Berkeley
@@ -26,7 +27,9 @@
 - Amazon ও Google এ চাকরির সুযোগ পাওয়ার প্রস্তুতি পর্ব by [Sabir Ismail](https://www.linkedin.com/in/sabir-ismail-83113b20/) | [[Github Repo](https://github.com/sabir4063/my_preparation)]
 
 # Blogs
-- Chip Huyen | [[Blog Link](https://huyenchip.com/blog/)]
+- [Chip Huyen](https://huyenchip.com) | [[Blog Link](https://huyenchip.com/blog/)]
   - [A survivor's guide to Artificial Intelligence courses at Stanford (Updated Feb 2020)](https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html)
   - [Career advice for recent Computer Science graduates](https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html)
   - [Free online machine learning curriculum](https://huyenchip.com/2019/08/05/free-online-machine-learning-curriculum.html)
+- [Sebastian Ruder](https://ruder.io)
+  - [10 Tips for Research and a PhD](https://ruder.io/10-tips-for-research-and-a-phd/)
