@@ -8,7 +8,7 @@
 - Introduction to Linear Algebra for Applied Machine Learning with Python by [Pablo Caceres](https://pablocaceres.org/) | [[Site](https://pabloinsente.github.io/intro-linear-algebra)]
 
 # Papers
-- Deep Learning Papers Reading Roadmap | [[Github Repo]](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+- Deep Learning Papers Reading Roadmap | [[Github Repo](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)]
 
 # Resume & Cover Letter 
 - Resume & Cover Letters - Job & Internship Guide by University of California, Berkeley
@@ -20,6 +20,13 @@
 
 # Job Preparation 
 - Coding Interview University by John Washam | [[Github Repo](https://github.com/jwasham/coding-interview-university)]
+- Introduction to Machine Learning Interviews Book by [Chip Huyen](https://huyenchip.com/) | [[Web Version](https://huyenchip.com/ml-interviews-book/)] | [[Github Repo](https://github.com/chiphuyen/ml-interviews-book)]
 - How to get a top job after graduation by Seeam Shahid Noor | [[Link](https://www.getrevue.co/profile/seeamshahidnoor/issues/5-how-to-get-a-top-job-after-graduation-906343)]
   - Resources and instructions are based on the journey from getting an internship + full-time job at IBM’s Chief Analytics Office (& other companies) for strategy consulting, data science, & product management roles.
 - Amazon ও Google এ চাকরির সুযোগ পাওয়ার প্রস্তুতি পর্ব by [Sabir Ismail](https://www.linkedin.com/in/sabir-ismail-83113b20/) | [[Github Repo](https://github.com/sabir4063/my_preparation)]
+
+# Blogs
+- Chip Huyen | [[Blog Link](https://huyenchip.com/blog/)]
+  - [A survivor's guide to Artificial Intelligence courses at Stanford (Updated Feb 2020)](https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html)
+  - [Career advice for recent Computer Science graduates](https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html)
+  - [Free online machine learning curriculum](https://huyenchip.com/2019/08/05/free-online-machine-learning-curriculum.html)
