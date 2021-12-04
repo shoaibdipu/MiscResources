@@ -43,4 +43,5 @@
 
 ## Cheatsheet
 - Machine Learning Cheatsheet [[GitHub Repo](https://github.com/soulmachine/machine-learning-cheat-sheet)]
+- Data Science Tools study guides for MIT's 15.003 by [Afshine Amidi](https://twitter.com/afshinea) and [Shervine Amidi](https://twitter.com/shervinea) [[GitHub Repo](https://github.com/shervinea/mit-15-003-data-science-tools)]
 
