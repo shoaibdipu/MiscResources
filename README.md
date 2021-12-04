@@ -40,3 +40,7 @@
   - [Free online machine learning curriculum](https://huyenchip.com/2019/08/05/free-online-machine-learning-curriculum.html)
 - [Sebastian Ruder](https://ruder.io)
   - [10 Tips for Research and a PhD](https://ruder.io/10-tips-for-research-and-a-phd/)
+
+## Cheatsheet
+- Machine Learning Cheatsheet [[GitHub Repo](https://github.com/soulmachine/machine-learning-cheat-sheet)]
+
