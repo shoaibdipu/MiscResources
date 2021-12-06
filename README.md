@@ -1,15 +1,16 @@
 # Miscellaneous Resources
 
 ## Data Visualization 
-- Scientific Visualization: Python + Matplotlib by Nicolas Rougier | [[Site](https://www.labri.fr/perso/nrougier/scientific-visualization.html)] [[Repo](https://github.com/rougier/scientific-visualization-book)] [[PDF](https://hal.inria.fr/hal-03427242/document)]
+- Scientific Visualization: Python + Matplotlib by Nicolas Rougier [[Site](https://www.labri.fr/perso/nrougier/scientific-visualization.html)] [[Repo](https://github.com/rougier/scientific-visualization-book)] [[PDF](https://hal.inria.fr/hal-03427242/document)]
 
 ## Maths 
-- Mathematics for Machine Learning - Multivariate Calculus | [[Youtube Playlist](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)]
-- Introduction to Linear Algebra for Applied Machine Learning with Python by [Pablo Caceres](https://pablocaceres.org/) | [[Site](https://pabloinsente.github.io/intro-linear-algebra)]
+- Mathematics for Machine Learning - Multivariate Calculus [[Youtube Playlist](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)]
+- Introduction to Linear Algebra for Applied Machine Learning with Python by [Pablo Caceres](https://pablocaceres.org/) [[Site](https://pabloinsente.github.io/intro-linear-algebra)]
 
 ## Reading Lists
-- Deep Learning Papers Reading Roadmap | [[Github Repo](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)]
-- Reading lists for new MILA students | [[Doc](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/)]
+- Deep Learning Papers Reading Roadmap [[Github Repo](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)]
+- Reading lists for new MILA students [[Doc](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/)]
+- Machine Learning at Berkeley reading list [[Site](https://ml.berkeley.edu/reading-list/)]
 
 ## Contest Programming 
 - [The Ultimate Topic List (with Resources, Problems and Templates)](https://codeforces.com/blog/entry/95106) by [Shahjalal Shohag / YouKn0wWho](https://codeforces.com/profile/YouKn0wWho)
