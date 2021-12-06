@@ -25,7 +25,7 @@
 - Introduction to Machine Learning Interviews Book by [Chip Huyen](https://huyenchip.com/) | [[Web Version](https://huyenchip.com/ml-interviews-book/)] [[Github Repo](https://github.com/chiphuyen/ml-interviews-book)]
 - Tech Interview Handbook [[Site](https://techinterviewhandbook.org/)] [[GitHub Repo](https://github.com/yangshun/tech-interview-handbook)]
 - Front End Interview Handbook [[Site](https://frontendinterviewhandbook.com/)] [[GitHub Repo](https://github.com/yangshun/front-end-interview-handbook)]
-
+- Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, … [[Link](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)]
 - How to get a top job after graduation by Seeam Shahid Noor [[Link](https://www.getrevue.co/profile/seeamshahidnoor/issues/5-how-to-get-a-top-job-after-graduation-906343)]
   - Resources and instructions are based on the journey from getting an internship + full-time job at IBM’s Chief Analytics Office (& other companies) for strategy consulting, data science, & product management roles.
 - Amazon ও Google এ চাকরির সুযোগ পাওয়ার প্রস্তুতি পর্ব by [Sabir Ismail](https://www.linkedin.com/in/sabir-ismail-83113b20/) [[Github Repo](https://github.com/sabir4063/my_preparation)]
