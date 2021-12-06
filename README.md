@@ -50,6 +50,7 @@
 ## Cheatsheet
 - Machine Learning Cheatsheet [[GitHub Repo](https://github.com/soulmachine/machine-learning-cheat-sheet)]
 - Study guides for MIT's 15.003 Data Science Tools by [Afshine Amidi](https://twitter.com/afshinea) and [Shervine Amidi](https://twitter.com/shervinea) [[GitHub Repo](https://github.com/shervinea/mit-15-003-data-science-tools)]
+- Machine Learning Bites by [Rishabh Anand](https://rish-16.github.io/) [[Link](https://www.notion.so/Machine-Learning-Bites-7c1675ecb587451e9caf793c68972276)]
 
 ## Implementations
 - Implementations of Algorithms by [TheAlgorithms](https://github.com/TheAlgorithms) | Implemented in [[Python](https://github.com/TheAlgorithms/Python)], [[Java](https://github.com/TheAlgorithms/Java)]
