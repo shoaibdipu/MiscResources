@@ -54,3 +54,5 @@
 ## Implementations
 - Implementations of Algorithms by [TheAlgorithms](https://github.com/TheAlgorithms) | Implemented in [[Python](https://github.com/TheAlgorithms/Python)], [[Java](https://github.com/TheAlgorithms/Java)]
 
+## Online Courses & Lectures
+- Online Course on Neural Networks by [Hugo Larochelle - Lead, Google Brain Montreal, Adjunct Professor, Université de Montréal and Canada CIFAR Chair](https://mila.quebec/en/person/hugo-larochelle/) [[Content](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)] [[Youtube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)]
