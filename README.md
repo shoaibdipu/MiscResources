@@ -57,3 +57,6 @@
 
 ## Online Courses & Lectures
 - Online Course on Neural Networks by [Hugo Larochelle - Lead, Google Brain Montreal, Adjunct Professor, Université de Montréal and Canada CIFAR Chair](https://mila.quebec/en/person/hugo-larochelle/) [[Content](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)] [[Youtube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)]
+
+## Linux
+- Distro-hopping Guide during Undergraduate Years by [Muhammad Ridowan](https://www.quora.com/profile/Muhammad-Ridowan) [[Quora Answer](https://www.quora.com/Should-I-buy-a-MacBook-Pro-or-a-PC-and-run-Linux-as-a-computer-science-student/answer/Muhammad-Ridowan)]
