@@ -17,7 +17,7 @@
 - [The Ultimate Topic List (with Resources, Problems and Templates)](https://codeforces.com/blog/entry/95106) by [Shahjalal Shohag / YouKn0wWho](https://codeforces.com/profile/YouKn0wWho)
   - [The Ultimate Question: Why should I start Competitive Programming?](https://github.com/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline)
 
-## Books 
+## Books
 - [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) by [Christoph Molnar](https://christophm.github.io/)
 
 ## Overview of Books or Book Chapters
