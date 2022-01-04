@@ -27,6 +27,7 @@
 ## Job Interview Preparation 
 - Coding Interview University by John Washam [[Github Repo](https://github.com/jwasham/coding-interview-university)]
 - Introduction to Machine Learning Interviews Book by [Chip Huyen](https://huyenchip.com/) | [[Web Version](https://huyenchip.com/ml-interviews-book/)] [[Github Repo](https://github.com/chiphuyen/ml-interviews-book)]
+- Deep Learning Interviews by [Shlomo Kashani](https://twitter.com/BoltzmannEnt) | [[arXiv](https://arxiv.org/abs/2201.00650)] | [[GitHub](https://github.com/BoltzmannEntropy/interviews.ai)] | [[Official Website](https://www.interviews.ai/)]
 - Tech Interview Handbook [[Site](https://techinterviewhandbook.org/)] [[GitHub Repo](https://github.com/yangshun/tech-interview-handbook)]
 - Front End Interview Handbook [[Site](https://frontendinterviewhandbook.com/)] [[GitHub Repo](https://github.com/yangshun/front-end-interview-handbook)]
 - Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, … [[Link](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)]
