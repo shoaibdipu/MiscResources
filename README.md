@@ -1,7 +1,8 @@
 # Miscellaneous Resources
 
-## Data Visualization 
+## Data Visualization & Diagramming 
 - Scientific Visualization: Python + Matplotlib by Nicolas Rougier [[Site](https://www.labri.fr/perso/nrougier/scientific-visualization.html)] [[Repo](https://github.com/rougier/scientific-visualization-book)] [[PDF](https://hal.inria.fr/hal-03427242/document)]
+- LaTeX Code for Making Neural Network Diagrams [[GitHub Repo](https://github.com/HarisIqbal88/PlotNeuralNet)]
 
 ## Maths 
 - Mathematics for Machine Learning - Multivariate Calculus [[Youtube Playlist](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)]
