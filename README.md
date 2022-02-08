@@ -66,6 +66,8 @@
 - Deep Learning Drizzle | [[Site](https://deep-learning-drizzle.github.io)] | [[GitHub Repo](https://github.com/kmario23/deep-learning-drizzle)]
 - Teach Yourself Computer Science [[Site](https://teachyourselfcs.com/)]
   - Recommended resources for Programming, Computer Architecture, Algorithms and Data Structures, Math for CS, Operating Systems, Computer Networking, Databases, Languages and Compilers, Distributed Systems.
+- Machine Learning Resources by [Louis Bouchard](https://www.louisbouchard.ai/) | [GitHub](https://github.com/louisfb01/start-machine-learning)
+  - Articles, Books, Math Books, Coding Tutorials, Online Courses, Communities, Cheat Sheets, ML Jobs, AI Ethics
 
 ## Linux
 - Distro-hopping Guide during Undergraduate Years by [Muhammad Ridowan](https://www.quora.com/profile/Muhammad-Ridowan) [[Quora Answer](https://www.quora.com/Should-I-buy-a-MacBook-Pro-or-a-PC-and-run-Linux-as-a-computer-science-student/answer/Muhammad-Ridowan)]
